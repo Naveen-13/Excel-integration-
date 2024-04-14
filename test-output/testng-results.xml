@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T21:44:23 IST" name="Default suite" finished-at="2024-04-14T21:44:24 IST" duration-ms="867">
+    <groups>
+    </groups>
+    <test started-at="2024-04-14T21:44:23 IST" name="Default test" finished-at="2024-04-14T21:44:24 IST" duration-ms="867">
+      <class name="Data.Excel.DataP">
+        <test-method signature="dataMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Data.Excel.DataP@ffaa6af]" started-at="2024-04-14T21:44:24 IST" name="dataMethod" data-provider="data" finished-at="2024-04-14T21:44:24 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[u1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[u2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[u3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataMethod -->
+        <test-method signature="dataMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Data.Excel.DataP@ffaa6af]" started-at="2024-04-14T21:44:24 IST" name="dataMethod" data-provider="data" finished-at="2024-04-14T21:44:24 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[p2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[p3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataMethod -->
+      </class> <!-- Data.Excel.DataP -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
